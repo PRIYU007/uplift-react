@@ -1,3 +1,1 @@
-# uplift-react
-
 PRIYANSHU BHANDARI
